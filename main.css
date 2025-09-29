@@ -23,3 +23,18 @@ nav a:hover {
 .about_us {
   text-align: center;
 }
+
+.btn {
+  background: blue;
+  color: white;
+  border:none;
+  padding: 10px 10px;
+  border-radius: 10px;
+}
+
+.pricing {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 20px;
+}
