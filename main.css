@@ -1,0 +1,25 @@
+* {
+  background-color: silver;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 40px;
+}
+
+nav a { 
+    text-decoration: none;
+    color: black;
+    margin: 0 10px;
+}
+
+nav a:hover {
+   color: blue
+}
+
+
+.about_us {
+  text-align: center;
+}
